@@ -1,1 +1,3 @@
 # clock-using-p5.js
+
+A simple layout clock using p5.js (from the coding train). I am just learning p5...
